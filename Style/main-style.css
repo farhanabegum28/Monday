@@ -12,7 +12,8 @@ body {
 .main-content {
     font-family: 'Courier New', Courier, monospace;
     color: rgb(193, 210, 211); 
-    font-size: larger;
+    font-size: larger; 
+    font-weight: 600;
 }
 
 footer {font-size: smaller;
